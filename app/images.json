@@ -1,0 +1,164 @@
+{
+  "house": [
+    {
+      "original": "0003.jpg",
+      "src": "/images/house-0.webp"
+    },
+    {
+      "original": "0005.jpg",
+      "src": "/images/house-1.webp"
+    },
+    {
+      "original": "0007.jpg",
+      "src": "/images/house-2.webp"
+    },
+    {
+      "original": "0009.jpg",
+      "src": "/images/house-3.webp"
+    },
+    {
+      "original": "0012.jpg",
+      "src": "/images/house-4.webp"
+    },
+    {
+      "original": "0013.jpg",
+      "src": "/images/house-5.webp"
+    },
+    {
+      "original": "0028.jpg",
+      "src": "/images/house-6.webp"
+    },
+    {
+      "original": "0032.jpg",
+      "src": "/images/house-7.webp"
+    },
+    {
+      "original": "спальня мальчика.jpg",
+      "src": "/images/house-8.webp"
+    },
+    {
+      "original": "Master bathroom1.jpg",
+      "src": "/images/house-9.webp"
+    },
+    {
+      "original": "master wardrobe 1.jpg",
+      "src": "/images/house-10.webp"
+    }
+  ],
+  "bedroom": [
+    {
+      "original": "1 ракурс .jpg",
+      "src": "/images/bedroom-0.webp"
+    },
+    {
+      "original": "2 ракурс .jpg",
+      "src": "/images/bedroom-1.webp"
+    },
+    {
+      "original": "3 ракурс .jpg",
+      "src": "/images/bedroom-2.webp"
+    },
+    {
+      "original": "4 ракурс .jpg",
+      "src": "/images/bedroom-3.webp"
+    },
+    {
+      "original": "5 ракурс .jpg",
+      "src": "/images/bedroom-4.webp"
+    }
+  ],
+  "rose": [
+    {
+      "original": "2 8 marta.jpg",
+      "src": "/images/rose-0.webp"
+    },
+    {
+      "original": "2 8 martaps.jpg",
+      "src": "/images/rose-1.webp"
+    },
+    {
+      "original": "3 8 marta.jpg",
+      "src": "/images/rose-2.webp"
+    },
+    {
+      "original": "3 8 martaps.jpg",
+      "src": "/images/rose-3.webp"
+    },
+    {
+      "original": "4 8 marta.jpg",
+      "src": "/images/rose-4.webp"
+    },
+    {
+      "original": "4 8 martaps.jpg",
+      "src": "/images/rose-5.webp"
+    },
+    {
+      "original": "8 marta.jpg",
+      "src": "/images/rose-6.webp"
+    },
+    {
+      "original": "8 martaps.jpg",
+      "src": "/images/rose-7.webp"
+    }
+  ],
+  "texture": [
+    {
+      "original": "ПВХ в интерьере 2к1.jpg",
+      "src": "/images/texture-0.webp"
+    },
+    {
+      "original": "ПВХ в интерьере 2к1ps.jpg",
+      "src": "/images/texture-1.webp"
+    },
+    {
+      "original": "ПВХ в интерьере 2к2.jpg",
+      "src": "/images/texture-2.webp"
+    },
+    {
+      "original": "ПВХ в интерьере 2к2ps.jpg",
+      "src": "/images/texture-3.webp"
+    },
+    {
+      "original": "ПВХ в интерьере 9х16.jpg",
+      "src": "/images/texture-4.webp"
+    },
+    {
+      "original": "ПВХ в интерьере 9х16ps.jpg",
+      "src": "/images/texture-5.webp"
+    },
+    {
+      "original": "other view.jpg",
+      "src": "/images/texture-6.webp"
+    },
+    {
+      "original": "other view2.jpg",
+      "src": "/images/texture-7.webp"
+    }
+  ],
+  "living": [
+    {
+      "original": "2 shot c котом лого.jpg",
+      "src": "/images/living-0.webp"
+    },
+    {
+      "original": "4 shot маска лого.jpg",
+      "src": "/images/living-1.webp"
+    },
+    {
+      "original": "4 shot ps1 лого.jpg",
+      "src": "/images/living-2.webp"
+    },
+    {
+      "original": "5 shot лого.jpg",
+      "src": "/images/living-3.webp"
+    },
+    {
+      "original": "детализация двери с жестом руки лого.jpg",
+      "src": "/images/living-4.webp"
+    },
+    {
+      "original": "Обложка с девушкой лого.jpg",
+      "src": "/images/living-5.webp"
+    }
+  ]
+}
